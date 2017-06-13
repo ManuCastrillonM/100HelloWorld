@@ -14,6 +14,9 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
+- [Scheme](#scheme)
+- [Swift](#swift)
 
 ### C
 [*Back to top*](#table-of-contents)<br />
@@ -125,7 +128,13 @@ fun main(args : Array<String>) {
 
 ### PHP
 [*Back to top*](#table-of-contents)<br />
+HelloWorld.php
 
+```php
+<?php
+  echo 'Hello World!';
+?>
+```
 
 ### Python
 [*Back to top*](#table-of-contents)<br />
@@ -141,4 +150,31 @@ HelloWorld.rb
 
 ```ruby
 puts 'Hello world!'
+```
+
+### Rust
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.rs
+
+```rust
+fn main() {
+    println!("Hello World!");
+}
+```
+
+### Scheme
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.scm
+
+```scheme
+(display "Hello World!")
+(newline)
+```
+
+### Swift
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.swift
+
+```swift
+print("Hello World!")
 ```
