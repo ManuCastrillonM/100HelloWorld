@@ -1,22 +1,46 @@
 # Hello World in 100 programming languages
 
 ## Table of Contents
+- [APL](#apl)
+- [BrainFuck](#brainfuck)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
+- [Emoticon](#emoticon)
+- [Forth](#forth)
 - [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Kotlin](#kotlin)
+- [LOLCODE](#lolcode)
+- [Malbolge](#malbolge)
 - [PHP](#php)
 - [Python](#python)
+- [QBasic](#qbasic)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scheme](#scheme)
 - [Swift](#swift)
+- [Unlambda](#unlambda)
+
+### APL
+[*Back to top*](#table-of-contents)<br />
+
+```apl
+'Hello World!'
+```
+
+### BrainFuck
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.b
+
+```brainfuck
+++++++++++[>+++++++>++++++++++>+++<<<-]>++.>+.+++++++
+..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.
+```
 
 ### C
 [*Back to top*](#table-of-contents)<br />
@@ -66,6 +90,20 @@ HelloWorld.clj
 (defn hello []
   (println "Hello world!"))
 (hello)
+```
+
+### Emoticon
+[*Back to top*](#table-of-contents)<br />
+
+```emoticon
+Hello World! :-Q S:-P :-Q
+```
+
+### Forth
+[*Back to top*](#table-of-contents)<br />
+
+```forth
+CR .( Hello World!)
 ```
 
 ### F\#
@@ -126,6 +164,26 @@ fun main(args : Array<String>) {
 }
 ```
 
+### LOLCODE
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.lol
+
+```lolcode
+HAI
+  CAN HAS STDIO?
+  VISIBLE "HAI WORLD!!!1!"
+KTHXBYE
+```
+
+### Malbolge
+[*Back to top*](#table-of-contents)<br />
+main.mal
+
+```malbolge
+('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
+`CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>
+```
+
 ### PHP
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.php
@@ -142,6 +200,13 @@ HelloWorld.py
 
 ```python
 print("Hello World!")
+```
+
+### QBasic
+[*Back to top*](#table-of-contents)<br />
+
+```qbasic
+"Hello World!"
 ```
 
 ### Ruby
@@ -177,4 +242,11 @@ HelloWorld.swift
 
 ```swift
 print("Hello World!")
+```
+
+### Unlambda
+[*Back to top*](#table-of-contents)<br />
+
+```unlambda
+`r```````````.H.e.l.l.o. .W.o.r.l.di
 ```
