@@ -7,6 +7,7 @@
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
+- [COBOL](#cobol)
 - [Emoticon](#emoticon)
 - [Forth](#forth)
 - [F#](#f)
@@ -16,7 +17,9 @@
 - [Javascript](#javascript)
 - [Kotlin](#kotlin)
 - [LOLCODE](#lolcode)
+- [LÖVE](#LÖVE)
 - [Malbolge](#malbolge)
+- [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
 - [QBasic](#qbasic)
@@ -90,6 +93,17 @@ HelloWorld.clj
 (defn hello []
   (println "Hello world!"))
 (hello)
+```
+
+### COBOL
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.cobc
+```cobol
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO-WORLD.
+PROCEDURE DIVISION.
+DISPLAY 'Hello World!'.
+STOP RUN.
 ```
 
 ### Emoticon
@@ -175,6 +189,16 @@ HAI
 KTHXBYE
 ```
 
+### LÖVE
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.love
+
+```love
+function love.draw()
+    love.graphics.print('Hello World!', 400, 300)
+end
+```
+
 ### Malbolge
 [*Back to top*](#table-of-contents)<br />
 main.mal
@@ -182,6 +206,13 @@ main.mal
 ```malbolge
 ('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
 `CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>
+```
+
+### Perl
+[*Back to top*](#table-of-contents)<br />
+
+```perl
+print "Hello World!\n";
 ```
 
 ### PHP
