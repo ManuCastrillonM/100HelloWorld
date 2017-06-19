@@ -1,14 +1,24 @@
 # Hello World in 100 programming languages
 
 ## Table of Contents
+- [Ada](#ada)
+- [ALGOL](#algol)
 - [APL](#apl)
+- [AWK](#awk)
+- [Befunge](#befunge)
 - [BrainFuck](#brainfuck)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
 - [COBOL](#cobol)
+- [CoffeeScript](#coffeescript)
+- [ColdFusion](#coldfusion)
+- [D](#d)
+- [Dart](#dart)
 - [Emoticon](#emoticon)
+- [Erlang](#erlang)
+- [Elixir](#elixir)
 - [Forth](#forth)
 - [F#](#f)
 - [Go](#go)
@@ -17,7 +27,7 @@
 - [Javascript](#javascript)
 - [Kotlin](#kotlin)
 - [LOLCODE](#lolcode)
-- [LÖVE](#LÖVE)
+- [LÖVE](#lÖve)
 - [Malbolge](#malbolge)
 - [Perl](#perl)
 - [PHP](#php)
@@ -27,13 +37,52 @@
 - [Rust](#rust)
 - [Scheme](#scheme)
 - [Swift](#swift)
+- [Typescript](#typescript)
 - [Unlambda](#unlambda)
+
+### Ada
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.adb
+
+```ada
+with Ada.Text_IO; use Ada.Text_IO;
+procedure Hello is
+begin
+  Put_Line("Hello World!");
+end Hello;
+```
+
+### ALGOL
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.alg
+
+```algol
+print("Hello World!")
+```
 
 ### APL
 [*Back to top*](#table-of-contents)<br />
 
 ```apl
 'Hello World!'
+```
+
+### AWK
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.awk
+
+```awk
+BEGIN {
+   print "Hello World!"
+}
+```
+
+### Befunge
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.be
+
+```befunge
+0"!dlroW olleH">:#,_@
 ```
 
 ### BrainFuck
@@ -98,6 +147,7 @@ HelloWorld.clj
 ### COBOL
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.cobc
+
 ```cobol
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
@@ -106,11 +156,70 @@ DISPLAY 'Hello World!'.
 STOP RUN.
 ```
 
+### CoffeeScript
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.coffee
+
+```coffeescript
+alert "Hello World!"
+```
+
+### ColdFusion
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.cfm
+
+```coldfusion
+<cfset message = "Hello World!">
+<cfoutput> #message#</cfoutput>
+```
+
+### D
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.d
+
+```d
+import std.stdio;
+void main(string[ ] args)
+{
+   writeln("Hello World!");
+}
+```
+
+### Dart
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.dart
+
+```dart
+void main(){
+   print("Hello World!");
+}
+```
+
 ### Emoticon
 [*Back to top*](#table-of-contents)<br />
 
 ```emoticon
 Hello World! :-Q S:-P :-Q
+```
+
+### Erlang
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.erl
+
+```erlang
+-module(helloworld).
+-export([start/0]).
+
+start() ->
+    io:fwrite("Hello World!\n").
+```
+
+### Elixir
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.exs
+
+```elixir
+IO.puts "Hello World!"
 ```
 
 ### Forth
@@ -273,6 +382,14 @@ HelloWorld.swift
 
 ```swift
 print("Hello World!")
+```
+
+### Typescript
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.ts
+
+```typescript
+alert('Hello World!');
 ```
 
 ### Unlambda
