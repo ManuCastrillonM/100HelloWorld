@@ -36,8 +36,10 @@
 - [Javascript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
+- [Lisp](#lisp)
 - [LOLCODE](#lolcode)
 - [LÖVE](#lÖve)
+- [Lua](lua)
 - [Malbolge](#malbolge)
 - [Perl](#perl)
 - [PHP](#php)
@@ -406,6 +408,14 @@ fun main(args : Array<String>) {
 }
 ```
 
+### Lisp
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.lisp
+
+```lisp
+(write-line "Hello World!")
+```
+
 ### LOLCODE
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.lol
@@ -425,6 +435,14 @@ HelloWorld.love
 function love.draw()
     love.graphics.print('Hello World!', 400, 300)
 end
+```
+
+### Lua
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.lua
+
+```lua
+print("Hello World!")
 ```
 
 ### Malbolge
