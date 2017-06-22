@@ -19,7 +19,11 @@
 - [Emoticon](#emoticon)
 - [Erlang](#erlang)
 - [Elixir](#elixir)
+- [Factor](#factor)
+- [Fantom](#fantom)
+- [Falcon](#falcon)
 - [Forth](#forth)
+- [Free basic](#free-basic)
 - [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
@@ -222,11 +226,51 @@ HelloWorld.exs
 IO.puts "Hello World!"
 ```
 
+### Factor
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.factor
+
+```factor
+USE: io
+"Hello World!" print
+```
+
+### Fantom
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.fan
+
+```fantom
+class HelloWorld
+{
+  static Void main()
+  {
+    echo("Hello World!")
+  }
+}
+```
+
+### Falcon
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.fl
+
+```falcon
+> "Hello World!"
+```
+
 ### Forth
 [*Back to top*](#table-of-contents)<br />
+HelloWorld.fth
 
 ```forth
-CR .( Hello World!)
+.( Hello World!) CR
+```
+
+### Free Basic
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.bas
+
+```freebasic
+Print "Hello World!"
 ```
 
 ### F\#
@@ -259,7 +303,7 @@ main = putStrLn "Hello World"
 
 ### Java
 [*Back to top*](#table-of-contents)<br />
-Main.java
+HelloWorld.java
 
 ```java
 public class Main {
@@ -310,7 +354,7 @@ end
 
 ### Malbolge
 [*Back to top*](#table-of-contents)<br />
-main.mal
+HelloWorld.mal
 
 ```malbolge
 ('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
