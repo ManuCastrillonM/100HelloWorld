@@ -41,6 +41,10 @@
 - [LÖVE](#lÖve)
 - [Lua](lua)
 - [Malbolge](#malbolge)
+- [Mozart-Oz](#mozart-oz)
+- [OCaml](#ocaml)
+- [Pascal](#pascal)
+- [Pawn](#pawn)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -452,6 +456,51 @@ HelloWorld.mal
 ```malbolge
 ('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
 `CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>
+```
+
+### Mozart-Oz
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.oz
+
+```mozart-oz
+functor
+import
+   Application
+   System
+define
+   {System.showInfo 'Hello World!'}
+   {Application.exit 0}
+end
+```
+
+### OCaml
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.ml
+
+```ocaml
+print_string "Hello World!\n";;
+```
+
+### Pascal
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.pas
+
+```pascal
+Program HelloWorld(output);
+begin
+  writeln('Hello World!');
+end.
+```
+
+### Pawn
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.p
+
+```pawn
+main()
+{
+   printf("Hello World!\n")
+}
 ```
 
 ### Perl
