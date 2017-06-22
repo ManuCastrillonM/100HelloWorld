@@ -3,6 +3,7 @@
 ## :computer: Table of Contents
 - [Ada](#ada)
 - [ALGOL](#algol)
+- [Ante](#ante)
 - [APL](#apl)
 - [AWK](#awk)
 - [Befunge](#befunge)
@@ -26,9 +27,14 @@
 - [Free basic](#free-basic)
 - [F#](#f)
 - [Go](#go)
+- [Groovy](#groovy)
 - [Haskell](#haskell)
+- [Haxe](#haxe)
+- [Icon](#icon)
+- [Intercal](#intercal)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Julia](#julia)
 - [Kotlin](#kotlin)
 - [LOLCODE](#lolcode)
 - [LÖVE](#lÖve)
@@ -64,6 +70,14 @@ HelloWorld.alg
 print("Hello World!")
 ```
 
+### Ante
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.ante
+
+```ante
+9♦8♥J♦A♦2♣3♥7♠J♦A♦7♦J♦J♦A♦3♦J♦5♥6♦4♥J♥A♥6♠6♠J♥A♦8♦J♦A♦8♠J♦A♦3♦J♦A♦6♠J♦A♦8♠J♦A♥3♦2♠J♥A♥2♣6♠J♥
+```
+
 ### APL
 [*Back to top*](#table-of-contents)<br />
 
@@ -91,7 +105,7 @@ HelloWorld.be
 
 ### BrainFuck
 [*Back to top*](#table-of-contents)<br />
-HelloWorld.b
+HelloWorld.bf
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++<<<-]>++.>+.+++++++
@@ -293,12 +307,65 @@ func main() {
 }
 ```
 
+### Groovy
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.groovy
+
+```groovy
+println("Hello World!")
+```
+
 ### Haskell
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.hs
 
 ```haskell
 main = putStrLn "Hello World"
+```
+
+### Haxe
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.hx
+
+```haxe
+class HelloWorld {
+  static public function main():Void {
+    trace("Hello World!");
+  }
+}
+```
+
+### Icon
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.icn
+
+```icon
+procedure main()
+   write ("Hello World!");
+end
+```
+
+### Intercal
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.i
+
+```intercal
+DO ,1 <- #13
+PLEASE DO ,1 SUB #1 <- #238
+DO ,1 SUB #2 <- #108
+DO ,1 SUB #3 <- #112
+DO ,1 SUB #4 <- #0
+DO ,1 SUB #5 <- #64
+DO ,1 SUB #6 <- #194
+PLEASE DO ,1 SUB #7 <- #48
+DO ,1 SUB #8 <- #26
+DO ,1 SUB #9 <- #244
+PLEASE DO ,1 SUB #10 <- #168
+DO ,1 SUB #11 <- #24
+DO ,1 SUB #12 <- #16
+DO ,1 SUB #13 <- #162
+PLEASE READ OUT ,1
+PLEASE GIVE UP
 ```
 
 ### Java
@@ -319,6 +386,14 @@ HelloWorld.js
 
 ```javascript
 console.log("Hello world!");
+```
+
+### Julia
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.jl
+
+```julia
+println("Hello World!")
 ```
 
 ### Kotlin
