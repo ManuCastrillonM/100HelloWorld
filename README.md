@@ -61,6 +61,7 @@
 - [Tcl](#tcl)
 - [Typescript](#typescript)
 - [Unlambda](#unlambda)
+- [VB.NET](#vb.net)
 
 ### Ada
 [*Back to top*](#table-of-contents)<br />
@@ -650,4 +651,18 @@ HelloWorld.unlambda
 
 ```unlambda
 `r```````````.H.e.l.l.o. .W.o.r.l.di
+```
+
+### VB.NET
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.vb
+
+```vb.net
+Module VBModule
+
+    Sub Main()
+        Console.WriteLine("Hello World!")
+    End Sub
+
+End Module
 ```
