@@ -47,12 +47,18 @@
 - [Pawn](#pawn)
 - [Perl](#perl)
 - [PHP](#php)
+- [Pike](#pike)
 - [Python](#python)
 - [QBasic](#qbasic)
+- [REXX](#rexx)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Scheme](#scheme)
+- [Simula](#simula)
+- [Smalltalk](#smalltalk)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [Typescript](#typescript)
 - [Unlambda](#unlambda)
 
@@ -521,6 +527,17 @@ HelloWorld.php
 ?>
 ```
 
+### Pike
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.pike
+
+```pike
+int main() {
+    write("Hello World!\n");
+    return 0;
+}
+```
+
 ### Python
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.py
@@ -534,6 +551,15 @@ print("Hello World!")
 
 ```qbasic
 "Hello World!"
+```
+
+### REXX
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.rex
+
+```rexx
+say 'Hello World!'
+exit
 ```
 
 ### Ruby
@@ -554,6 +580,18 @@ fn main() {
 }
 ```
 
+### Scala
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.scala
+
+```scala
+object HelloWorld {
+   def main(args: Array[String]) {
+      println("Hello World!")
+   }
+}
+```
+
 ### Scheme
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.scm
@@ -563,12 +601,39 @@ HelloWorld.scm
 (newline)
 ```
 
+### Simula
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.sim
+
+```simula
+Begin
+   OutText ("Hello World!");
+   Outimage;
+End;
+```
+
+### Smalltalk
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.gst
+
+```smalltalk
+Transcript show: 'Hello World!'.
+```
+
 ### Swift
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.swift
 
 ```swift
 print("Hello World!")
+```
+
+### Tcl
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.tcl
+
+```tcl
+puts "Hello World!"
 ```
 
 ### Typescript
