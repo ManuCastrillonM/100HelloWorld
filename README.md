@@ -64,11 +64,11 @@
 - [Unlambda](#unlambda)
 - [VB.NET](#vbnet)
 - [Verilog](#verilog)
-- [White Space](#whitespace)
-- [Ya Basic](#yabasic)
+- [White Space](#white-space)
+- [Ya Basic](#ya-basic)
 
 ### Ada
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.adb
 
 ```ada
@@ -80,7 +80,7 @@ end Hello;
 ```
 
 ### ALGOL
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.alg
 
 ```algol
@@ -88,7 +88,7 @@ print("Hello World!")
 ```
 
 ### Ante
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.ante
 
 ```ante
@@ -96,14 +96,14 @@ HelloWorld.ante
 ```
 
 ### APL
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 
 ```apl
 'Hello World!'
 ```
 
 ### AWK
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.awk
 
 ```awk
@@ -113,7 +113,7 @@ BEGIN {
 ```
 
 ### Befunge
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.be
 
 ```befunge
@@ -121,7 +121,7 @@ HelloWorld.be
 ```
 
 ### BrainFuck
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.bf
 
 ```brainfuck
@@ -130,7 +130,7 @@ HelloWorld.bf
 ```
 
 ### C
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.c
 
 ```c
@@ -143,7 +143,7 @@ main()
 ```
 
 ### C\#
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.cs
 
 ```csharp
@@ -157,7 +157,7 @@ public class HelloWorld
 ```
 
 ### C++
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.cc
 
 ```c++
@@ -170,7 +170,7 @@ int main()
 ```
 
 ### Clojure
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.clj
 
 ```clojure
@@ -180,7 +180,7 @@ HelloWorld.clj
 ```
 
 ### COBOL
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.cobc
 
 ```cobol
@@ -192,7 +192,7 @@ STOP RUN.
 ```
 
 ### CoffeeScript
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.coffee
 
 ```coffeescript
@@ -200,7 +200,7 @@ alert "Hello World!"
 ```
 
 ### ColdFusion
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.cfm
 
 ```coldfusion
@@ -209,7 +209,7 @@ HelloWorld.cfm
 ```
 
 ### D
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.d
 
 ```d
@@ -221,7 +221,7 @@ void main(string[ ] args)
 ```
 
 ### Dart
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.dart
 
 ```dart
@@ -231,14 +231,14 @@ void main(){
 ```
 
 ### Emoticon
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 
 ```emoticon
 Hello World! :-Q S:-P :-Q
 ```
 
 ### Erlang
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.erl
 
 ```erlang
@@ -250,7 +250,7 @@ start() ->
 ```
 
 ### Elixir
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.exs
 
 ```elixir
@@ -258,7 +258,7 @@ IO.puts "Hello World!"
 ```
 
 ### Factor
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.factor
 
 ```factor
@@ -267,7 +267,7 @@ USE: io
 ```
 
 ### Fantom
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.fan
 
 ```fantom
@@ -281,7 +281,7 @@ class HelloWorld
 ```
 
 ### Falcon
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.fl
 
 ```falcon
@@ -289,7 +289,7 @@ HelloWorld.fl
 ```
 
 ### Forth
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.fth
 
 ```forth
@@ -297,7 +297,7 @@ HelloWorld.fth
 ```
 
 ### Free Basic
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.bas
 
 ```freebasic
@@ -305,7 +305,7 @@ Print "Hello World!"
 ```
 
 ### F\#
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.fs
 
 ```fsharp
@@ -313,7 +313,7 @@ printf "Hello World!\n"
 ```
 
 ### Go
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.go
 
 ```go
@@ -325,7 +325,7 @@ func main() {
 ```
 
 ### Groovy
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.groovy
 
 ```groovy
@@ -333,7 +333,7 @@ println("Hello World!")
 ```
 
 ### Haskell
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.hs
 
 ```haskell
@@ -341,7 +341,7 @@ main = putStrLn "Hello World"
 ```
 
 ### Haxe
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.hx
 
 ```haxe
@@ -353,7 +353,7 @@ class HelloWorld {
 ```
 
 ### Icon
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.icn
 
 ```icon
@@ -363,7 +363,7 @@ end
 ```
 
 ### Intercal
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.i
 
 ```intercal
@@ -386,7 +386,7 @@ PLEASE GIVE UP
 ```
 
 ### Java
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.java
 
 ```java
@@ -398,7 +398,7 @@ public class Main {
 ```
 
 ### Javascript
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.js
 
 ```javascript
@@ -406,7 +406,7 @@ console.log("Hello world!");
 ```
 
 ### Julia
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.jl
 
 ```julia
@@ -414,7 +414,7 @@ println("Hello World!")
 ```
 
 ### Kotlin
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.kt
 
 ```kotlin
@@ -424,7 +424,7 @@ fun main(args : Array<String>) {
 ```
 
 ### Lisp
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.lisp
 
 ```lisp
@@ -432,7 +432,7 @@ HelloWorld.lisp
 ```
 
 ### LOLCODE
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.lol
 
 ```lolcode
@@ -443,7 +443,7 @@ KTHXBYE
 ```
 
 ### LÖVE
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.love
 
 ```love
@@ -453,7 +453,7 @@ end
 ```
 
 ### Lua
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.lua
 
 ```lua
@@ -461,7 +461,7 @@ print("Hello World!")
 ```
 
 ### Malbolge
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.mal
 
 ```malbolge
@@ -470,7 +470,7 @@ HelloWorld.mal
 ```
 
 ### Mozart-Oz
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.oz
 
 ```mozart-oz
@@ -485,7 +485,7 @@ end
 ```
 
 ### Nimrod
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.nim
 
 ```nim
@@ -493,7 +493,7 @@ echo  "Hello World!"
 ```
 
 ### OCaml
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.ml
 
 ```ocaml
@@ -501,7 +501,7 @@ print_string "Hello World!\n";;
 ```
 
 ### Pascal
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.pas
 
 ```pascal
@@ -512,7 +512,7 @@ end.
 ```
 
 ### Pawn
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.p
 
 ```pawn
@@ -523,7 +523,7 @@ main()
 ```
 
 ### Perl
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.pl
 
 ```perl
@@ -531,7 +531,7 @@ print "Hello World!\n";
 ```
 
 ### PHP
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.php
 
 ```php
@@ -541,7 +541,7 @@ HelloWorld.php
 ```
 
 ### Pike
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.pike
 
 ```pike
@@ -552,7 +552,7 @@ int main() {
 ```
 
 ### Python
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.py
 
 ```python
@@ -560,14 +560,14 @@ print("Hello World!")
 ```
 
 ### QBasic
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 
 ```qbasic
 "Hello World!"
 ```
 
 ### REXX
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.rex
 
 ```rexx
@@ -576,7 +576,7 @@ exit
 ```
 
 ### Ruby
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.rb
 
 ```ruby
@@ -584,7 +584,7 @@ puts 'Hello world!'
 ```
 
 ### Rust
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.rs
 
 ```rust
@@ -594,7 +594,7 @@ fn main() {
 ```
 
 ### Scala
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.scala
 
 ```scala
@@ -606,7 +606,7 @@ object HelloWorld {
 ```
 
 ### Scheme
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.scm
 
 ```scheme
@@ -615,7 +615,7 @@ HelloWorld.scm
 ```
 
 ### Simula
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.sim
 
 ```simula
@@ -626,7 +626,7 @@ End;
 ```
 
 ### Smalltalk
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.gst
 
 ```smalltalk
@@ -634,7 +634,7 @@ Transcript show: 'Hello World!'.
 ```
 
 ### Swift
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.swift
 
 ```swift
@@ -642,7 +642,7 @@ print("Hello World!")
 ```
 
 ### Tcl
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.tcl
 
 ```tcl
@@ -650,7 +650,7 @@ puts "Hello World!"
 ```
 
 ### Typescript
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.ts
 
 ```typescript
@@ -658,7 +658,7 @@ alert('Hello World!');
 ```
 
 ### Unlambda
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.unlambda
 
 ```unlambda
@@ -666,7 +666,7 @@ HelloWorld.unlambda
 ```
 
 ### VB.NET
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.vb
 
 ```vb.net
@@ -680,7 +680,7 @@ End Module
 ```
 
 ### Verilog
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.v
 
 ```verilog
@@ -694,7 +694,7 @@ endmodule
 ```
 
 ### White Space
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.ws
 
 ```whitespace
@@ -730,7 +730,7 @@ L
 ```
 
 ### Ya Basic
-[*Back to top*](#table-of-contents)<br />
+[*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.bas
 
 ```yabasic
