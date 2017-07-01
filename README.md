@@ -42,6 +42,7 @@
 - [Lua](lua)
 - [Malbolge](#malbolge)
 - [Mozart-Oz](#mozart-oz)
+- [Nimrod](#nimrod)
 - [OCaml](#ocaml)
 - [Pascal](#pascal)
 - [Pawn](#pawn)
@@ -61,7 +62,10 @@
 - [Tcl](#tcl)
 - [Typescript](#typescript)
 - [Unlambda](#unlambda)
-- [VB.NET](#vb.net)
+- [VB.NET](#vbnet)
+- [Verilog](#verilog)
+- [White Space](#whitespace)
+- [Ya Basic](#yabasic)
 
 ### Ada
 [*Back to top*](#table-of-contents)<br />
@@ -480,6 +484,14 @@ define
 end
 ```
 
+### Nimrod
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.nim
+
+```nim
+echo  "Hello World!"
+```
+
 ### OCaml
 [*Back to top*](#table-of-contents)<br />
 HelloWorld.ml
@@ -665,4 +677,62 @@ Module VBModule
     End Sub
 
 End Module
+```
+
+### Verilog
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.v
+
+```verilog
+module main;
+  initial
+    begin
+      $display("Hello World!");
+      $finish ;
+    end
+endmodule
+```
+
+### White Space
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.ws
+
+```whitespace
+S S S T	S S T	S S S L
+T	L
+S S S S S T	T	S S T	S T	L
+T	L
+S S S S S T	T	S T	T	S S L
+T	L
+S S S S S T	T	S T	T	S S L
+T	L
+S S S S S T	T	S T	T	T	T	L
+T	L
+S S S S S T	S T	T	S S L
+T	L
+S S S S S T	S S S S S L
+T	L
+S S S S S T	T	T	S T	T	T	L
+T	L
+S S S S S T	T	S T	T	T	T	L
+T	L
+S S S S S T	T	T	S S T	S L
+T	L
+S S S S S T	T	S T	T	S S L
+T	L
+S S S S S T	T	S S T	S S L
+T	L
+S S S S S T	S S S S T	L
+T	L
+S S L
+L
+L
+```
+
+### Ya Basic
+[*Back to top*](#table-of-contents)<br />
+HelloWorld.bas
+
+```yabasic
+Print "Hello World!"
 ```
