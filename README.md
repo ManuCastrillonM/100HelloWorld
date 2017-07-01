@@ -6,6 +6,7 @@
 - [Ante](#ante)
 - [APL](#apl)
 - [AWK](#awk)
+- [bc](#bc)
 - [Befunge](#befunge)
 - [BrainFuck](#brainfuck)
 - [C](#c)
@@ -17,16 +18,18 @@
 - [ColdFusion](#coldfusion)
 - [D](#d)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Emoticon](#emoticon)
 - [Erlang](#erlang)
-- [Elixir](#elixir)
 - [Factor](#factor)
 - [Fantom](#fantom)
 - [Falcon](#falcon)
 - [Forth](#forth)
+- [Fortran](#fortran)
 - [Free basic](#free-basic)
 - [F#](#f)
 - [Go](#go)
+- [Gosu](#gosu)
 - [Groovy](#groovy)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
@@ -42,6 +45,8 @@
 - [Lua](lua)
 - [Malbolge](#malbolge)
 - [Mozart-Oz](#mozart-oz)
+- [Nemerle](#nemerle)
+- [Nice](#nice)
 - [Nimrod](#nimrod)
 - [OCaml](#ocaml)
 - [Pascal](#pascal)
@@ -110,6 +115,13 @@ HelloWorld.awk
 BEGIN {
    print "Hello World!"
 }
+```
+
+### bc
+[*Back to top*](#computer-table-of-contents)<br />
+
+```bc
+print "Hello World!\n"
 ```
 
 ### Befunge
@@ -230,6 +242,14 @@ void main(){
 }
 ```
 
+### Elixir
+[*Back to top*](#computer-table-of-contents)<br />
+HelloWorld.exs
+
+```elixir
+IO.puts "Hello World!"
+```
+
 ### Emoticon
 [*Back to top*](#computer-table-of-contents)<br />
 
@@ -247,14 +267,6 @@ HelloWorld.erl
 
 start() ->
     io:fwrite("Hello World!\n").
-```
-
-### Elixir
-[*Back to top*](#computer-table-of-contents)<br />
-HelloWorld.exs
-
-```elixir
-IO.puts "Hello World!"
 ```
 
 ### Factor
@@ -296,6 +308,18 @@ HelloWorld.fth
 .( Hello World!) CR
 ```
 
+### Fortran
+[*Back to top*](#computer-table-of-contents)<br />
+HelloWorld.for
+
+```fortran
+PROGRAM HELLO
+WRITE (*,100)
+STOP
+100 FORMAT (' Hello World! ' /)
+END
+```
+
 ### Free Basic
 [*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.bas
@@ -322,6 +346,14 @@ import "fmt"
 func main() {
  fmt.Printf("Hello World\n")
 }
+```
+
+### Gosu
+[*Back to top*](#computer-table-of-contents)<br />
+HelloWorld.gs
+
+```gosu
+print("Hello World!")
 ```
 
 ### Groovy
@@ -484,6 +516,30 @@ define
 end
 ```
 
+### Nemerle
+[*Back to top*](#computer-table-of-contents)<br />
+HelloWorld.n
+
+```nemerle
+class Hello
+{
+  static Main () : void
+  {
+    System.Console.WriteLine ("Hello World!");
+  }
+}
+```
+
+### Nice
+[*Back to top*](#computer-table-of-contents)<br />
+HelloWorld.nice
+
+```nice
+void main (String[] args)
+{
+	println("Hello World!");
+}
+```
 ### Nimrod
 [*Back to top*](#computer-table-of-contents)<br />
 HelloWorld.nim
